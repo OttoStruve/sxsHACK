@@ -9,4 +9,4 @@ This is during UT Austin Spring Break.  It'll be in the astronomy classroom.
 If you're interested in participating your can add your name to [the participant list](https://github.com/OttoStruve/sxsHACK/wiki/Participants).  
 Even better, brainstorm and advertise your [hack ideas](https://github.com/OttoStruve/sxsHACK/wiki/Hack-ideas) before the day.
 
-Oh yeah, and some of us are using [slack](astrodata.slack.com), which could be fun during the hack day.
+Oh yeah, and some of us are using [slack](http://astrodata.slack.com), which could be fun during the hack day.
